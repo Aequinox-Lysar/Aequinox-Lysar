@@ -1,19 +1,42 @@
 ![Header](./Header.png)
 
-## Hi there 👋
+## Hi Aequinox Lysar here 👋
+> *"In the space between logic and chaos, I build systems that whisper back "*
 
+---
 
-<!--
-**Aequinox-Lysar/Aequinox-Lysar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who i am
+I explore the hidden layers of machines.
+Between firmware an philosophy - I map what most overlook.
+No noise, no spotlight. Just signal.
 
-Here are some ideas to get you started:
+- Linux embedded tinkerer
+- Firmware, initramfs, low-level systems
+- Python • C • C++ • Bash
+- Terminal aestethics & interactive fiction
+- Documentation, structure and understanding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Current Projects
+| Area | Focus | Description |
+| ---- | ----- | ----------- |
+| `sandbox` | Experiments | Small prototypes and proof-of- concepts |
+| `embedded-utils` | Tools | Helpers for building anf debugging low-level systems |
+| `terminal-art` | Aesthetics | Curses. ASCII and text-based interactions |
+| `notes` | Documentations | Fragments of knowledge, condensed and minimal |
+
+---
+### Code Philosophy
+> Systems are stories. Every bug is a plot twist,
+> every signal a voice waiting to be understood.
+
+I write code the same way I design worlds - with structure, intent and a touch of enigma.
+
+---
+
+### Connect
+Not much to say, not much to show.
+If you understand the silence between bytes - you already know where to find me.
+
+---
