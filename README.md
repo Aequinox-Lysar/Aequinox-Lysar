@@ -1,4 +1,4 @@
-![Header](./Header.png)
+![Banner](./Header.png)
 
 ## Hi Aequinox Lysar here 👋
 > *"In the space between logic and chaos, I build systems that whisper back "*
