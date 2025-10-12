@@ -14,8 +14,8 @@
 | 🔔 Notifications|[![Notifications](https://img.shields.io/badge/-Review_my_Notifications-blue?logo=github)](https://github.com/notifications)
 | 🐞 Issues |[![Issues](https://img.shields.io/badge/Working_on_my_Issues-purple?logo=github)](https://github.com/issues)
 | 🔀 Pull Requests | [![PRs](https://img.shields.io/badge/-Do_more_Pull_Requests-green?logo=git)](https://github.com/pulls) |
-| 📋 Projects | [![Projects](https://img.shields.io/badge/-These_are_my_own_tiny_Projects-teal?logo=github)](https://github.com/dashboard/projects) |
-| ⭐ Starred | [![Starred](https://img.shields.io/badge/-Starred_Repos-yellow?logo=github)](https://github.com/stars) |
+| 📋 Projects | [![Projects](https://img.shields.io/badge/-These_are_my_own_tiny_Projects-teal?logo=github)](https://github.com/Aequinox-Lysar?tab=projects) |
+| ⭐ Starred | [![Starred](https://img.shields.io/badge/-Starred_Repos-yellow?logo=github)](https://github.com/Aequinox-Lysar?tab=stars) |
 
 
 ---
