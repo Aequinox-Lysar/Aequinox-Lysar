@@ -1,7 +1,11 @@
-![Banner](./Header.png)
+<img src="./Header.png" alt="Header" width="100%" height=300>
 
 ## Hi Aequinox Lysar here 👋
 > *"In the space between logic and chaos, I build systems that whisper back "*
+---
+
+[![My Contributions](https://img.shields.io/badge/Stats-View-blue?style=flat-square)](https://github.com/Aequinox-Lysar)
+[![Follow](https://img.shields.io/github/followers/Aequinox-Lysar?style=social)](https://github.com/Aequinox-Lysar?tab=followers)
 
 ---
 ## Dashboard
@@ -15,10 +19,6 @@
 
 
 ---
-
-### ⚙️ Activity & Overview
-[![My Contributions](https://img.shields.io/badge/Stats-View-blue?style=flat-square)](https://github.com/Aequinox-Lysar)
-[![Follow](https://img.shields.io/github/followers/Aequinox-Lysar?style=social)](https://github.com/Aequinox-Lysar?tab=followers)
 
 ### 🧩 Repos, I'm working on...
 [![Obsidian Note Toolbar](https://img.shields.io/badge/Osidian_Note_Toolbar-PR_send-yellowgreen?style=for-the-badge&logo=github)](https://github.com/chrisgurney/obsidian-note-toolbar)
