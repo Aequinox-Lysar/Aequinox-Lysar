@@ -1,15 +1,16 @@
 <img src="./Header.png" alt="Header" width="100%" height=300>
 
-## Hi Aequinox Lysar here 👋
-> *"In the space between logic and chaos, I build systems that whisper back "*
+## ✨ Aequinox Lysar - Mein Labor der Ideen
+Ich bin ein neugieriger Geist mit einer Schwäche für alles, was leuchtet, summt oder sich durch Logik bändigen lässt.
+Meine Projekte bewegen sich irgendwo zwischen Technologie, Kunst, Erzählung und Abenteuer – von selbstgebauter Hardware über experimentelle Software bis hin zu immersiven Erfahrungen.
 ---
 
 [![My Contributions](https://img.shields.io/badge/Stats-View-blue?style=flat-square)](https://github.com/Aequinox-Lysar)
 [![Follow](https://img.shields.io/github/followers/Aequinox-Lysar?style=social)](https://github.com/Aequinox-Lysar?tab=followers)
 
 ---
-## Dashboard
-|Area|Link|
+## 📊 Dashboard
+|Bereich|Link|
 | --- | --- |
 | 🔔 Notifications|[![Notifications](https://img.shields.io/badge/-Review_my_Notifications-blue?logo=github)](https://github.com/notifications)
 | 🐞 Issues |[![Issues](https://img.shields.io/badge/Working_on_my_Issues-purple?logo=github)](https://github.com/issues)
@@ -17,45 +18,38 @@
 | 📋 Projects | [![Projects](https://img.shields.io/badge/-These_are_my_own_tiny_Projects-teal?logo=github)](https://github.com/Aequinox-Lysar?tab=projects) |
 | ⭐ Starred | [![Starred](https://img.shields.io/badge/-Starred_Repos-yellow?logo=github)](https://github.com/Aequinox-Lysar?tab=stars) |
 
-
 ---
 
-### 🧩 Repos, I'm working on...
-[![Obsidian Note Toolbar](https://img.shields.io/badge/Osidian_Note_Toolbar-PR_send-yellowgreen?style=for-the-badge&logo=github)](https://github.com/chrisgurney/obsidian-note-toolbar)
+### 🧩 Repos, an denen ich mitwirke...
+[![Obsidian Note Toolbar](https://img.shields.io/badge/Obsidian_Note_Toolbar-PR_send-yellowgreen?style=for-the-badge&logo=github)](https://github.com/chrisgurney/obsidian-note-toolbar)
 
 ---
-## Who i am
-I explore the hidden layers of machines.
-Between firmware an philosophy - I map what most overlook.
-No noise, no spotlight. Just signal.
+## 🧠 Was mich antreibt...
 
-- Linux embedded tinkerer
-- Firmware, initramfs, low-level systems
-- Python • C • C++ • Bash
-- Terminal aestethics & interactive fiction
-- Documentation, structure and understanding
+- Die Welt verstehen, indem ich sie neu erschaffe.
+- Lernen durch Machen – Theorie ist gut, Praxis ist Wahrheit.
+- Systeme so gestalten, dass sie sich richtig anfühlen.
+---
+## 🔬 Was ich baue...
 
+- Individuelle Tools, Scripts und Konzepte zur Wissensorganisation
+- Elektronikprojekte, Simulationen und Experimente mit Embedded Linux
+- Mini-Systeme, die Geschichten erzählen
+---
+## 📓 Wie ich arbeite
+
+Ich dokumentiere meine Reise in Markdown – nicht, um Wissen zu archivieren, sondern um es lebendig zu halten.
+Mein Werkzeug ist Obsidian, mein Kompass ist Neugier, mein Ziel ist **echtes** Verständnis.
+
+> „Ich baue, dokumentiere und experimentiere – so lerne ich, wie Dinge wirklich funktionieren.“
+---
+## 📞 Kontakt & Philosophie
+
+Ich teile hier keine abgeschlossenen Produkte, sondern Gedanken in Bewegung.
+Wer verstehen will, was hier passiert, darf gerne mitdenken – oder sich einfach inspirieren lassen.
+Ich stehe jederzeit für einen kreativen gemeinsamen Austausch zur Verfügung. 😍
+
+> „Nichts ist jemals wirklich fertig.“
+> „Sollte dies jedoch wirklich irgendwann mal für eines meiner Projekte gelten, wird man es hier sicher nicht mehr finden.“ 😜
 ---
 
-### Current Projects
-| Area | Focus | Description |
-| ---- | ----- | ----------- |
-| `sandbox` | Experiments | Small prototypes and proof-of- concepts |
-| `embedded-utils` | Tools | Helpers for building anf debugging low-level systems |
-| `terminal-art` | Aesthetics | Curses. ASCII and text-based interactions |
-| `notes` | Documentations | Fragments of knowledge, condensed and minimal |
-
----
-### Code Philosophy
-> Systems are stories. Every bug is a plot twist,
-> every signal a voice waiting to be understood.
-
-I write code the same way I design worlds - with structure, intent and a touch of enigma.
-
----
-
-### Connect
-Not much to say, not much to show.
-If you understand the silence between bytes - you already know where to find me.
-
----
