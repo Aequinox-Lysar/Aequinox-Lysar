@@ -19,9 +19,29 @@ Meine Projekte bewegen sich irgendwo zwischen Technologie, Kunst, Erzählung und
 | ⭐ Starred | [![Starred](https://img.shields.io/badge/-Starred_Repos-yellow?logo=github)](https://github.com/Aequinox-Lysar?tab=stars) |
 
 ---
+## 🪪 Wer ich bin...
 
-### 🧩 Repos, an denen ich mitwirke...
-[![Obsidian Note Toolbar](https://img.shields.io/badge/Obsidian_Note_Toolbar-PR_send-yellowgreen?style=for-the-badge&logo=github)](https://github.com/chrisgurney/obsidian-note-toolbar)
+**Ich bin Aequinox Lysar**.
+Ich lerne nicht, weil ich muss – ich lerne, weil ich’s will.
+Ich will verstehen, wie Dinge wirklich funktionieren, nicht bloß, wie man sie benutzt.
+
+Ich baue mir mein Wissen selbst.
+Wenn etwas kaputtgeht, gut – dann lern ich eben, wie man’s repariert.
+Wenn etwas keiner versteht, perfekt – dann ist das mein nächstes Ziel.
+
+Ich brauche keine Anleitung, keinen Kurs, kein Okay von irgendwem.
+Ich mach mein Ding, Schritt für Schritt, sauber dokumentiert, weil ich’s mir und niemand anderem beweisen will.
+
+Das hier ist kein Tutorial.
+Das ist mein Labor.
+Hier fliegen Ideen, Code, Konfigurationen – alles, was mich ein Stück weiterbringt.
+
+Ich experimentiere. Ich scheitere. Ich gewinne. Ich wachse.
+Und während andere noch reden, hab ich’s längst ausprobiert.
+
+**Das ist Aequinox Lysar.
+Neugier. Fokus. Eigenantrieb.
+Kein Label. Kein Filter. Einfach echt.**
 
 ---
 ## 🧠 Was mich antreibt...
